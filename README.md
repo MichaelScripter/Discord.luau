@@ -24,7 +24,7 @@ local DiscordAPI = require(9652595266)
 ```lua
 local DiscordAPI = require(9652595266)
 
-DiscordAPI.register("975840780663001202/Q5SFQceF2A4UBf9I1GaPOjXQ2wKgusAoSFfcAveXJWwG6Wfbb-QO69Hdgc9VpC16UqMH") --Put your Webhook id here
+DiscordAPI.register("975840780663001202/Q5SFQceF2A4UBf9I1GaPOjXQ2wKgusAoSFfcAveXJWwG6Wfbb-QO69Hdgc9VpC16UqMH") --Put your Webhook code here
 DiscordAPI.sendMessage("Im send cool message")
 ```
 
